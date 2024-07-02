@@ -9,12 +9,12 @@
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/jose-oliva/NodeJS_Challenge.git
+    git clone https://github.com/jose-oliva/challenge.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd NodeJS_Challenge
+    cd challenge
     ```
 
 3. Instala las dependencias:
@@ -26,7 +26,7 @@
     1. Crea un archivo `.env` en la raíz del proyecto.
     2. Agrega la URL de conexión a MongoDB Atlas en el archivo `.env`:
         ```env
-        MONGODB_URI=your_mongodb_uri
+        MONGODB_URI = your_mongodb_uri
         ```
 
 ## Inicia la aplicación
